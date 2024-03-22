@@ -8,3 +8,11 @@
 - Getting approval for the events.
 - Ticket Booking for the event.
 - QR Code generation for receiving tickets.
+
+Technologies Used
+
+ReactJs
+NodeJs
+ExpressJs
+MongoDB
+NPM (Node Package Manager)
