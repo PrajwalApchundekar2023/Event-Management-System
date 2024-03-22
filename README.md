@@ -11,8 +11,8 @@
 
 Technologies Used
 
-ReactJs
-NodeJs
-ExpressJs
-MongoDB
-NPM (Node Package Manager)
+- ReactJs
+- NodeJs
+- ExpressJs
+- MongoDB
+- NPM (Node Package Manager)
